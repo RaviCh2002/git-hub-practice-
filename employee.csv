@@ -1,0 +1,11 @@
+employee_id	first_name	last_name	department	job_title	email	hire_date	salary	city
+1001	Aarav	Sharma	Engineering	Software Engineer	aarav.sharma@example.com	2022-03-14	85000	Hyderabad
+1002	Diya	Reddy	Finance	Financial Analyst	diya.reddy@example.com	2021-07-01	72000	Vijayawada
+1003	Kabir	Patel	Human Resources	HR Specialist	kabir.patel@example.com	2023-01-09	61000	Bengaluru
+1004	Ananya	Iyer	Engineering	Data Engineer	ananya.iyer@example.com	2020-11-23	94000	Chennai
+1005	Ishaan	Kumar	Sales	Account Executive	ishaan.kumar@example.com	2022-09-12	68000	Pune
+1006	Meera	Nair	Marketing	Marketing Manager	meera.nair@example.com	2019-05-06	88000	Kochi
+1007	Arjun	Das	Operations	Operations Lead	arjun.das@example.com	2021-02-15	79000	Kolkata
+1008	Sana	Khan	Engineering	QA Engineer	sana.khan@example.com	2023-06-19	70000	Mumbai
+1009	Rohan	Gupta	Finance	Accountant	rohan.gupta@example.com	2020-08-03	66000	Delhi
+1010	Tara	Menon	Product	Product Manager	tara.menon@example.com	2018-12-10	105000	Hyderabad
